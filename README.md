@@ -30,20 +30,6 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Th
 
 ---
 
-## ✅ Future Improvements
-
-- Improve design and animations
-- Add score tracking
-
----
-
-## 📃 License
-
-This project is open source and free to use.  
-Feel free to fork and improve it!
-
----
-
 ## 🙌 Author
 
 Made with ❤️ by A.Dharinish  
